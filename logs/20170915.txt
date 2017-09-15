@@ -1,0 +1,62 @@
+[1505454254] ErrorINSERTINTOhistoryaverageordershighlowopenclosetrendtimestamppairtimerangeVALUES22866335633346262315769996227351230400000012304000000121505453940USDTETH3230340099999102311230230230441505453760USDTETH323151362222148272322752302319230171505453580USDTETH3231022585754482923227522928229282318131505453400USDTETH3227270542964553322928226752272292811505453220USDTETH32270934009211022768226922722721505453040USDTETH3227170513756252276799322692276799322711505452860USDTETH322777577001692132280852276799322822767993111505452680USDTETH3228141007364449228552282285522871505452500USDTETH322885443600110228922882406228824062288240641505452320USDTETH323001838550230416494228824062304164942288240641505452140USDTETH3brUnknowncolumnUSDTinfieldlist
+[1505455408] ErrorINSERTINTOhistoryaverageordershighlowopenclosetrendtimestamppairtimerangeVALUES232932882113482323423231523231523491505455200USDTETH3231527789440531923291623099232915999682316000000131505455020USDTETH323097576922923132329159999823015230423131505454840USDTETH32303583333333362304230152304230441505454660USDTETH323036428571429723042301523015230451505454480USDTETH3230116666666676230422992299230441505454300USDTETH32298400000045230422900000002230230431505454120USDTETH322866335633346262315769996227351230400000012304000000121505453940USDTETH3230340099999102311230230230441505453760USDTETH323151362222148272322752302319230171505453580USDTETH3231022585754482923227522928229282318131505453400USDTETH3227345848808520229282267522692292851505453220USDTETH3brUnknowncolumnUSDTinfieldlist
+[1505457616] ErrorINSERTINTOhistoryaverageordershighlowopenclosetrendtimestamppairtimerangeVALUES2255749259763272262522512251225821171505457360USDTETH32255659244331292288239998922522882399989225191505457180USDTETH32258586109155852228824225122530674998228824161505457000USDTETH322666782293373592288240600122530674998228824062253731505456820USDTETH322954442158391232304228825230422882511505456640USDTETH32304348484275023053939371230423053939371230441505456460USDTETH3brUnknowncolumnUSDTinfieldlist
+[1505457718] Error INSERT INTO history average orders high low open close trend timestamp pair timerange              VALUES 2255749259763272262522512251225821171505457360USDTETH3 2255659244331292288239998922522882399989225191505457180USDTETH3 2258586109155852228824225122530674998228824161505457000USDTETH3 22666782293373592288240600122530674998228824062253731505456820USDTETH3 2288812502291228825229122882521505456640USDTETH3brUnknown column USDT in field list
+[1505457795] Error INSERT INTO history (average orders high low open close trend timestamp pair timerange)              VALUES (2252683199969226226252247922582122479-201505457540USDT-ETH3) (2255749259763272262522512251225821-171505457360USDT-ETH3) (2255659244331292288239998922522882399989225-191505457180USDT-ETH3) (2258586109155852228824225122530674998228824161505457000USDT-ETH3) (22633392686824022882406225306749982273512253791505456820USDT-ETH3)brUnknown column USDT in field list
+[1505457921] Error INSERT INTO history (average orders high low open close trend timestamp pair timerange)VALUES (223827213718864422522322479223-241505457720USDT-ETH3) (2252683199969226226252247922582122479-201505457540USDT-ETH3) (2255749259763272262522512251225821-171505457360USDT-ETH3) (2255659244331292288239998922522882399989225-191505457180USDT-ETH3) (2258586109155852228824225122530674998228824161505457000USDT-ETH3) (22558281639182022620253274225306749982262025327422537-41505456820USDT-ETH3)brUnknown column USDT in field list
+[1505457999] Error INSERT INTO history (average orders high low open close trend timestamp pair timerange)VALUES (223827213718864422522322479223-241505457720USDT-ETH3) (2252683199969226226252247922582122479-201505457540USDT-ETH3) (2255749259763272262522512251225821-171505457360USDT-ETH3) (2255659244331292288239998922522882399989225-191505457180USDT-ETH3) (22593436970548022882422512253067499822882461505457000USDT-ETH3)brUnknown column USDT in field list
+[1505458148] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-15 01:49:08
+[1505459366] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-15 02:09:26
+[1505461462] Error INSERT INTO history (average orders high low open close trend timestamp pair timerange) VALUES brYou have an error in your SQL syntax check the manual that corresponds to your MySQL server version for the right syntax to use near  at line 1
+[1505461532] Error: INSERT INTO history (average, orders, high, low, open, close, trend, timestamp, pair, timerange) VALUES <br>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[1505461587] Error: INSERT INTO history (average, orders, high, low, open, close, trend, timestamp, pair, timerange) VALUES<br>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[1505461595] Error: INSERT INTO history (average, orders, high, low, open, close, trend, timestamp, pair, timerange) VALUES<br>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[1505461690] Error: INSERT INTO history (average, orders, high, low, open, close, trend, timestamp, pair, timerange) VALUES<br>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[1505461694] Error: INSERT INTO history (average, orders, high, low, open, close, trend, timestamp, pair, timerange) VALUES<br>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[1505461872] Error: INSERT INTO history (average, orders, high, low, open, close, trend, timestamp, pair, timerange) VALUES<br>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[1505462017] Error: INSERT INTO history (`average`, `orders`, `high`, `low`, `open`, `close`, `trend`, `timestamp`, `pair`, `timerange`) VALUES<br>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[1505462021] Error: INSERT INTO history (`average`, `orders`, `high`, `low`, `open`, `close`, `trend`, `timestamp`, `pair`, `timerange`) VALUES<br>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[1505463057] Error: INSERT INTO history (`average`, `orders`, `high`, `low`, `open`, `close`, `trend`, `timestamp`, `pair`, `timerange`) VALUES<br>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[1505463107] Error: INSERT INTO history (`average`, `orders`, `high`, `low`, `open`, `close`, `trend`, `pair`, `timerange`) VALUES<br>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[1505467529] Error: INSERT INTO history (`average`, `orders`, `high`, `low`, `open`, `close`, `trend`, `timestamp`, `pair`, `timerange`) VALUES<br>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[1505467648] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-15 04:27:28
+[1505467656] Error: INSERT INTO history (`average`, `orders`, `high`, `low`, `open`, `close`, `trend`, `timestamp`, `pair`, `timerange`) VALUES<br>
+[1505467659] Error: INSERT INTO history (`average`, `orders`, `high`, `low`, `open`, `close`, `trend`, `timestamp`, `pair`, `timerange`) VALUES<br>
+[1505467671] Error: INSERT INTO history (`average`, `orders`, `high`, `low`, `open`, `close`, `trend`, `timestamp`, `pair`, `timerange`) VALUES<br>
+[1505467693] Error: INSERT INTO history (`average`, `orders`, `high`, `low`, `open`, `close`, `trend`, `timestamp`, `pair`, `timerange`) VALUES<br>
+[1505467701] Error: INSERT INTO history (`average`, `orders`, `high`, `low`, `open`, `close`, `trend`, `timestamp`, `pair`, `timerange`) VALUES<br>
+[1505467811] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-15 04:30:11
+[1505468112] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-15 04:35:12
+[1505470851] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-15 05:20:51
+[1505471478] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-15 05:31:18
+[1505486907] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-15 09:48:27
+[1505486997] [2017-09-15 09:49:57]: Warning: Not enough data collected to storeMarketData.
+[1505487009] [2017-09-15 09:50:09]: Warning: Not enough data collected to storeMarketData.
+[1505487021] [2017-09-15 09:50:21]: Warning: Not enough data collected to storeMarketData.
+[1505487026] [2017-09-15 09:50:26]: Warning: Not enough data collected to storeMarketData.
+[1505487098] [2017-09-15 09:51:38]: Warning: Not enough data collected to storeMarketData.
+[1505487100] [2017-09-15 09:51:40]: Warning: Not enough data collected to storeMarketData.
+[1505487103] [2017-09-15 09:51:43]: Warning: Not enough data collected to storeMarketData.
+[1505487105] [2017-09-15 09:51:45]: Warning: Not enough data collected to storeMarketData.
+[1505487108] [2017-09-15 09:51:48]: Warning: Not enough data collected to storeMarketData.
+[1505487111] [2017-09-15 09:51:51]: Warning: Not enough data collected to storeMarketData.
+[1505487114] [2017-09-15 09:51:54]: Warning: Not enough data collected to storeMarketData.
+[1505487116] [2017-09-15 09:51:56]: Warning: Not enough data collected to storeMarketData.
+[1505487119] [2017-09-15 09:51:59]: Warning: Not enough data collected to storeMarketData.
+[1505491634] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-15 11:07:14
+[1505504380] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-15 14:39:40
+[1505507871] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-15 15:37:51
+[1505507990] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-15 15:39:50
+[1505508182] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-15 15:43:02
+[1505508302] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-15 15:45:02
+[1505508481] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-15 15:48:01
+[1505508661] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-15 15:51:01
+[1505508841] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-15 15:54:01
+[1505509022] [2017-09-15 15:57:02]: Warning: Not enough data collected to storeMarketData.
+[1505509081] [2017-09-15 15:58:01]: Warning: Not enough data collected to storeMarketData.
+[1505509142] [2017-09-15 15:59:02]: Warning: Not enough data collected to storeMarketData.
+[1505509201] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-15 16:00:01
+[1505509381] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-15 16:03:01
+[1505509562] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-15 16:06:02
+[1505509742] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-15 16:09:02
+[1505509921] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-15 16:12:01
