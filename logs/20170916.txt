@@ -115,3 +115,6 @@
 [1505566261] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 07:51:01
 [1505566441] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 07:54:01
 [1505566621] [2017-09-16 07:57:01]: Warning: Not enough data collected to storeMarketData.
+[1505566681] [2017-09-16 07:58:01]: Warning: Not enough data collected to storeMarketData.
+[1505566742] [2017-09-16 07:59:02]: Warning: Not enough data collected to storeMarketData.
+[1505566801] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 08:00:01
