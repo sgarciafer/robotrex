@@ -14,8 +14,8 @@ Requirements
 
 Installation
 ======
-* Rename default.config.php and set the key and secret values.
-* Make a CRON execute the file XXXXX.php every X seconds.
+* Copy the content of default.config.php into config.php and set the key and secret values from Bittrex API.
+* Make a CRON execute the file cron.php every X seconds.
 
 Documentation
 ======
