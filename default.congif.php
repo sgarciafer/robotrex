@@ -11,3 +11,12 @@ $secret = '';
 // The largest the slowest the reaction of the robot and the more time it get to load up enough data to operate.
 // It needs 20 * $mode minutes to be ready.
 $mode = '3';
+
+
+// The MySql connection information.
+$db = array(
+  'user' => 'user',
+  'pass' => 'pass',
+  'host' => 'localhost',
+  'name' => 'dbname',
+);

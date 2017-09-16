@@ -1,0 +1,117 @@
+[1505540522] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 00:42:02
+[1505540702] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 00:45:02
+[1505540881] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 00:48:01
+[1505541061] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 00:51:01
+[1505541241] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 00:54:01
+[1505541422] [2017-09-16 00:57:02]: Warning: Not enough data collected to storeMarketData.
+[1505541482] [2017-09-16 00:58:02]: Warning: Not enough data collected to storeMarketData.
+[1505541542] [2017-09-16 00:59:02]: Warning: Not enough data collected to storeMarketData.
+[1505541602] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 01:00:02
+[1505541782] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 01:03:02
+[1505541962] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 01:06:02
+[1505542141] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 01:09:01
+[1505542322] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 01:12:02
+[1505542502] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 01:15:02
+[1505542681] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 01:18:01
+[1505542861] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 01:21:01
+[1505543042] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 01:24:02
+[1505543222] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 01:27:02
+[1505543401] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 01:30:01
+[1505543581] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 01:33:01
+[1505543761] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 01:36:01
+[1505543941] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 01:39:01
+[1505544121] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 01:42:01
+[1505544302] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 01:45:02
+[1505544481] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 01:48:01
+[1505544662] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 01:51:02
+[1505544841] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 01:54:01
+[1505545022] [2017-09-16 01:57:02]: Warning: Not enough data collected to storeMarketData.
+[1505545081] [2017-09-16 01:58:01]: Warning: Not enough data collected to storeMarketData.
+[1505545141] [2017-09-16 01:59:01]: Warning: Not enough data collected to storeMarketData.
+[1505545202] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 02:00:02
+[1505545381] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 02:03:01
+[1505545562] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 02:06:02
+[1505545744] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 02:09:04
+[1505545921] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 02:12:01
+[1505546101] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 02:15:01
+[1505546281] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 02:18:01
+[1505546461] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 02:21:01
+[1505546641] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 02:24:01
+[1505546822] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 02:27:02
+[1505547001] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 02:30:01
+[1505547181] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 02:33:01
+[1505547361] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 02:36:01
+[1505547541] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 02:39:01
+[1505547721] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 02:42:01
+[1505547901] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 02:45:01
+[1505548081] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 02:48:01
+[1505548262] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 02:51:02
+[1505548442] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 02:54:02
+[1505548622] [2017-09-16 02:57:02]: Warning: Not enough data collected to storeMarketData.
+[1505548681] [2017-09-16 02:58:01]: Warning: Not enough data collected to storeMarketData.
+[1505548742] [2017-09-16 02:59:02]: Warning: Not enough data collected to storeMarketData.
+[1505548801] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 03:00:01
+[1505548982] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 03:03:02
+[1505549162] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 03:06:02
+[1505549341] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 03:09:01
+[1505549521] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 03:12:01
+[1505549702] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 03:15:02
+[1505549882] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 03:18:02
+[1505550062] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 03:21:02
+[1505550241] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 03:24:01
+[1505550362] [2017-09-16 03:26:02]: Warning: Not enough data collected to storeMarketData.
+[1505550421] [2017-09-16 03:27:01]: Warning: Not enough data collected to storeMarketData.
+[1505550481] [2017-09-16 03:28:01]: Warning: Not enough data collected to storeMarketData.
+[1505550542] [2017-09-16 03:29:02]: Warning: Not enough data collected to storeMarketData.
+[1505550601] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 03:30:01
+[1505550782] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 03:33:02
+[1505550961] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 03:36:01
+[1505551141] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 03:39:01
+[1505551321] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 03:42:01
+[1505551502] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 03:45:02
+[1505551681] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 03:48:01
+[1505551861] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 03:51:01
+[1505552042] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 03:54:02
+[1505552162] [2017-09-16 03:56:02]: Warning: Not enough data collected to storeMarketData.
+[1505552221] [2017-09-16 03:57:01]: Warning: Not enough data collected to storeMarketData.
+[1505552281] [2017-09-16 03:58:01]: Warning: Not enough data collected to storeMarketData.
+[1505552342] [2017-09-16 03:59:02]: Warning: Not enough data collected to storeMarketData.
+[1505552401] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 04:00:01
+[1505552581] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 04:03:01
+[1505552762] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 04:06:02
+[1505552942] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 04:09:02
+[1505553121] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 04:12:01
+[1505553302] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 04:15:02
+[1505553482] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 04:18:02
+[1505553662] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 04:21:02
+[1505561041] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 06:24:01
+[1505561221] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 06:27:01
+[1505561402] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 06:30:02
+[1505561582] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 06:33:02
+[1505561761] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 06:36:01
+[1505561941] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 06:39:01
+[1505562121] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 06:42:01
+[1505562301] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 06:45:01
+[1505562481] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 06:48:01
+[1505562662] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 06:51:02
+[1505562841] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 06:54:01
+[1505563022] [2017-09-16 06:57:02]: Warning: Not enough data collected to storeMarketData.
+[1505563381] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 07:03:01
+[1505563562] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 07:06:02
+[1505563743] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 07:09:03
+[1505563922] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 07:12:02
+[1505564101] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 07:15:01
+[1505564282] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 07:18:02
+[1505564461] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 07:21:01
+[1505564641] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 07:24:01
+[1505564822] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 07:27:02
+[1505565001] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 07:30:01
+[1505565182] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 07:33:02
+[1505565361] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 07:36:01
+[1505565542] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 07:39:02
+[1505565721] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 07:42:01
+[1505565901] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 07:45:01
+[1505566081] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 07:48:01
+[1505566261] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 07:51:01
+[1505566441] New market history batch with 3 min span time inserted for USDT-ETH at 2017-09-16 07:54:01
+[1505566621] [2017-09-16 07:57:01]: Warning: Not enough data collected to storeMarketData.

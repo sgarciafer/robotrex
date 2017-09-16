@@ -1,7 +1,7 @@
 <?php
 
 
-class controller{
+class Controller{
 
   private $dbPass = "root";
   private $dbLogin = "root";
@@ -10,10 +10,8 @@ class controller{
   private $dbConn;
   private $logDir = __DIR__ . "/../logs/";
 
-  private $bittrex;
+  public function __construct() {
 
-  public function __construct($bittrex) {
-    $this->bittrex = $bittrex;
   }
 
   public function getLastTickers(){
@@ -23,7 +21,7 @@ class controller{
 
   public function parseHistory($hist,$timeRange){
     $output = [];
-    $output['hist'] = $this->bittrex->getmarkethistory('USDT-ETH',50);
+    $output['hist'] = $hist; //$this->bittrex->getmarkethistory('USDT-ETH',50);
     $output['bands'] = [];
     $output['bands']['average'] = [];
     $output['bands']['data'] = [];
@@ -161,20 +159,6 @@ class controller{
     return strtotime($dateInLocal);
   }
 
-  public function outputHistory($hist) {
-    echo('<div style="width:400px;height:200px;overflow:scroll;border:1px solid #666;"><pre>'.print_r($hist,-1)."</pre></div>");
-  	echo('<div style="width:800px;height:400px;overflow:scroll;border:1px solid #666;">');
-  	foreach( $hist as $index => $filled) {
-  		if(isset($filled->OrderType)) {
-  			$time = $filled->TimeStamp;
-  			$bgColor = "#d18787";
-  			if($filled->OrderType == "BUY") $bgColor = "#99cc99";
-  			echo('<div style="background:'.$bgColor.'"><span style="padding-left:10px;display: inline-block; width: 100px;color:#222;">'.$filled->Price.'</span>&nbsp;<span style="display: inline-block;color: #222;width: 100px;">'.$filled->Quantity.'ETH</span> <span style="color: #222;text-align: right;display: inline-block; width: 200px;">'.$filled->Total.' USDT</span><span style="display: inline-block;color: #222;width:300px;text-align:right">'.$time.'</span></div>' );
-  		}
-  	}
-  	echo('</div>');
-  }
-
   public function checkEnoughRecentData($pair,$timerange){
     $output = [];
     $now = getCurrentTimeRange(time());
@@ -182,7 +166,7 @@ class controller{
     $sql = 'SELECT * FROM history WHERE `pair` = "'.$pair.'" AND  `timestamp` >= "'.$from.'" AND  `timestamp` <= "'.$now.'"';
     $this->connectSQL();
     $result = $this->dbConn->query($sql);
-    
+
     $this->dbConn->close();
     return $output;
   }
